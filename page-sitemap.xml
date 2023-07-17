@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aboutalis.github.io/aboutalis/</loc>
-		<lastmod>2023-07-17T22:24:23+00:00</lastmod>
+		<lastmod>2023-07-17T22:34:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/ID_Photo-removebg-preview.png</image:loc>
 		</image:image>
@@ -53,15 +53,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/startSceneTicTacToe.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/startSceneTicTacToe.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/book-reservation-system.jpg</image:loc>
