@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://aboutalis.github.io/aboutalis/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://aboutalis.github.io/aboutalis/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://aboutalis.github.io/aboutalis/page-sitemap.xml</loc>
+		<loc>https://aboutalis.github.io/aboutalis/page-sitemap.xml</loc>
 		<lastmod>2023-07-17T21:26:13+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

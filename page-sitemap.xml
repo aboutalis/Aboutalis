@@ -1,96 +1,96 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://aboutalis.github.io/aboutalis/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://aboutalis.github.io/aboutalis/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://aboutalis.github.io/aboutalis/</loc>
+		<loc>https://aboutalis.github.io/aboutalis/</loc>
 		<lastmod>2023-07-17T21:26:13+00:00</lastmod>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/ID_Photo-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/ID_Photo-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/logo2048.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/logo2048.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/Screenshot_1-1.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/Screenshot_1-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/2202880.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/2202880.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/Screenshot_2.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/Screenshot_2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2023-07-09_213337-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2023-07-09_213337-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_3-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_3-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_2-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_3-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_3-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_4-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_4-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/rain.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/rain.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_5-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_5-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_5-removebg-preview.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_5-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/digital.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/digital.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_6.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/Screenshot_6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/book-reservation-system.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/book-reservation-system.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/GameScene.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/startSceneTicTacToe.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/startSceneTicTacToe.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/book-reservation-system.jpg</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/07/book-reservation-system.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://aboutalis.github.io/aboutalis/resume/</loc>
+		<loc>https://aboutalis.github.io/aboutalis/resume/</loc>
 		<lastmod>2023-07-09T19:43:20+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://aboutalis.github.io/aboutalis/polynature-low-poly-nature-asset-pack/</loc>
+		<loc>https://aboutalis.github.io/aboutalis/polynature-low-poly-nature-asset-pack/</loc>
 		<lastmod>2023-06-15T13:45:38+00:00</lastmod>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/acacia_tree.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/acacia_tree.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/stump.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/stump.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/pine_tree.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/pine_tree.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/coconut_tree.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/coconut_tree.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/cactus.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/cactus.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>http://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/dead_tree.png</image:loc>
+			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/dead_tree.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
