@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://aboutalis.github.io/aboutalis/</loc>
-		<lastmod>2023-09-01T14:45:42+00:00</lastmod>
+		<lastmod>2023-09-03T19:34:15+00:00</lastmod>
 		<image:image>
 			<image:loc>https://aboutalis.github.io/aboutalis/wp-content/uploads/2023/06/ID_Photo-removebg-preview.png</image:loc>
 		</image:image>
@@ -60,7 +60,7 @@
 	</url>
 	<url>
 		<loc>https://aboutalis.github.io/aboutalis/resume/</loc>
-		<lastmod>2023-07-09T19:43:20+00:00</lastmod>
+		<lastmod>2023-09-03T19:11:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://aboutalis.github.io/aboutalis/polynature-low-poly-nature-asset-pack/</loc>
